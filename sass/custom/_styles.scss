@@ -1,0 +1,60 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+#hero-inner {
+  h1 {
+    text-indent: -9999px;
+  }
+}
+
+#hero-inner {
+  img {    
+  margin: 0;
+  }
+}
+
+div.footnotes  {
+  ol li p {
+    display: inline;
+  }
+}
+
+.comments-header {
+  font-weight: bold;    
+}
+
+span.pullquote-right, 
+span.pullquote-left {
+  margin: 0 0 20px;
+  font-size: 16px;
+  line-height: 1.7;
+  display: block;
+}
+ 
+
+.pullquote-right:before,
+.pullquote-left:before {
+  /* Reset metrics. */
+  padding: 0;
+  border: none;
+
+  /* Content */
+  content: attr(data-pullquote);
+
+  /* Pull out to the right, modular scale based margins. */
+  float: right;
+  width: 45%;
+  margin: .5em 0 1em 1.5em;
+
+  /* Baseline correction */
+  position: relative;
+  top: 7px;
+  font-size: 1.4em;
+  line-height: 1.45em;
+}
+
+.pullquote-left:before {
+  /* Make left pullquotes align properly. */
+  float: left;
+  margin: .5em 1.5em 1em 0;
+}

@@ -1,0 +1,16 @@
+{% if site.twitter_user or site.googleplus_user %}
+    <h2>found on</h2>
+    {% if site.twitter_user %}
+    <a href="http://twitter.com/{{site.twitter_user}}" rel="tooltip" title="Twitter"><img class="social_icon" title="Twitter" alt="Twitter icon" src="{{ root_url }}/images/glyphicons_391_twitter_t.png"></a>
+    {% endif %}
+
+    {% if site.googleplus_user %}
+    <a href="https://plus.google.com/{{site.googleplus_user}}?rel=author" rel="tooltip" title="Google Plus"><img class="social_icon" title="Google Plus" alt="Google Plus icon" src="{{ root_url }}/images/glyphicons_386_google_plus.png"></a>
+    {% endif %}
+
+{% endif %}
+
+{% if site.email %}
+<h2>me contacter</h2>
+<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+{% endif %}
