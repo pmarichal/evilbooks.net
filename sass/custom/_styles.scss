@@ -30,7 +30,19 @@ span.pullquote-left {
   line-height: 1.7;
   display: block;
 }
+
  
+img.left { 
+    float: left; 
+    margin-right: 1.5em; 
+}
+img.right { 
+    float: right; 
+    margin-left: 1.5em;
+}
+img.left, img.right {
+    margin-bottom: .8em;
+}
 
 .pullquote-right:before,
 .pullquote-left:before {
