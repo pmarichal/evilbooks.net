@@ -132,6 +132,7 @@ blockquote {
 
   /* Content */
   content: attr(data-pullquote);
+  text-transform: capitalize;
 
   /* Pull out to the right, modular scale based margins. */
   float: right;

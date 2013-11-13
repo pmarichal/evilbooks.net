@@ -19,6 +19,10 @@ div.footnotes  {
   }
 }
 
+div.footnotes ol {
+    list-style-type: decimal;
+}
+
 .comments-header {
   font-weight: bold;    
 }
@@ -75,6 +79,7 @@ img.left, img.right {
 
   /* Content */
   content: attr(data-pullquote);
+  text-transform: capitalize;
 
   /* Pull out to the right, modular scale based margins. */
   float: right;
