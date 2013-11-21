@@ -6,7 +6,7 @@ comments: true
 categories: technique
 ---
 
-Commençons le tour d'horizon des techniques de scénarios par le bac à sable, avec en particulier [Oltréé!](http://www.legrog.org/jeux/oltree/) le dernier né med-fan de chez John Doe.
+Commençons le tour d'horizon des techniques de scénarios par le bac à sable, avec en particulier [Oltréé!](http://www.legrog.org/jeux/oltree/), le dernier né med-fan de chez John Doe écrit par John Grümph.
 
 <!-- more -->
 
@@ -16,7 +16,7 @@ J'ai écrit mon article initial sur [l'état des techniques scénaristiques dans
 {"Mais qu'est-ce que le bac à sable ?"} Aussi appelé sandbox, cette façon de concevoir les aventures est quasiment aussi vieille que le JDR. Cela consiste à décrire une région, une ville, une zone relativement délimitée et de laisser les joueurs vaquer à leurs occupations et leurs envies dans cette zone. Cela suppose un gros travail de préparation de la zone par le MJ: il faut la définir, la peupler de factions, de lieux intéressants, de monstres, d'endroits à visiter et autres trésors ou récompenses. Ensuite, si jamais les joueurs ne sont pas suffisamment proactifs, le MJ doit prendre une charge de travail supplémentaire pour faire monter la mayonnaise en inventant pistes et scénarios. 
 {% endpullquote %}
 
-Mais dans Oltréé!, toute une série de techniques soulagent le MJ de ce travail fastidieux. Elles vont de l'ultra classique (des tables aléatoires) jusqu'aux plus innovantes (les cartes d'exploration). Passons les en revue.  
+Mais dans Oltréé!, toute une série de techniques soulagent le MJ de ce travail fastidieux. Elles vont de l'ultra classique (des tables aléatoires) jusqu'aux plus innovantes[^1]  (les cartes d'exploration). Passons les en revue.  
 
 {% pullquote left %}
 La définition géographique de la zone ({"la carte"}) reste pareille qu'avant: on prend une feuille de papier à hexagone et on délimite des côtes, des montagnes, des plaines, des forêts, etc. Là, rien de bien neuf. C'est ensuite que vous allez peupler votre région avec des villes, des communautés, des ruines diverses, etc. Pour ce faire, des tables aléatoires très inspirantes vont vous aider à le faire. Vous pouvez soit prendre le tirage tel quel, soit vous en inspirez sans contrainte. 
@@ -46,10 +46,11 @@ L'essentiel des idées présentées ici vont toutes vers un même but: laisser l
 Maintenant, comment généraliser ces idées pour {"les mettre en pratique dans d'autres jeux"}. Premièrement, il faut bien être conscient que ces techniques sont pensées surtout dans l'optique du bac à sable. Difficile de faire du "plot-driven" à la Cthulhu. De plus, telles qu'elles sont présentées, elles impliquent de jouer en méd-fan à la Donjon. Mais rien ne vous empêche de les convertir à d'autres genres (elles sont suffisamment génériques que pour être utilisables quasiment telles quelles avec d'autres systèmes de jeu). 
 {% endpullquote %}
 
-Vous voulez faire du far west ? Pas de souci, il suffit de réécrire les différentes tables pour parler de saloons, de canyons et d'indiens plutôt que d'auberges, de montagnes et de gobelins. Vous voulez faire du cyberpunk[^1], et bien on va parler de vieux bars miteux dans la conurb, d'arcologie et de street gangs. Vous pouvez aussi également réécrire les cartes (patrouilles, exaltations et persécutions) afin de proposer des événements, des bonus et des problèmes qui colleront à votre setting. Cela va vous demander bien entendu pas mal de boulot pour adapter tous cela au genre qui vous intéresse, mais une fois ce travail effectué, vous pourrez définir votre Arkansas ou votre Seattle by Night en peu de temps et avoir des centaines d'heures de jeux. 
+Vous voulez faire du far west ? Pas de souci, il suffit de réécrire les différentes tables pour parler de saloons, de canyons et d'indiens plutôt que d'auberges, de montagnes et de gobelins. Vous voulez faire du cyberpunk[^2], et bien on va parler de vieux bars miteux dans la conurb, d'arcologie et de street gangs. Vous pouvez aussi également réécrire les cartes (patrouilles, exaltations et persécutions) afin de proposer des événements, des bonus et des problèmes qui colleront à votre setting. Cela va vous demander bien entendu pas mal de boulot pour adapter tous cela au genre qui vous intéresse, mais une fois ce travail effectué, vous pourrez définir votre Arkansas ou votre Seattle by Night en peu de temps et avoir des centaines d'heures de jeux. 
 
 {% pullquote %}
 Bon, c'est bien joli tout ça, {"mais ça sert à quoi ?"} Et bien ça sert à être feignant. En effet, toutes ces techniques vont aider le MJ a poser un cadre de jeu et à pouvoir broder et improviser les séances avec le moins de travail possible. La création de la carte au moyen des tables permet de définir facilement un environnement suffisamment grand et varié que pour avoir de quoi jouer pendant très longtemps. Et les cartes vont amener des idées, des scènes, des rebondissements qui alimentent le jeu et facilitent l'improvisation. De plus, une grande partie de ces idées viennent des joueurs eux-mêmes, donc moins de poids sur les épaules du MJ pour tout inventer et plus d'implication des joueurs. Au final, vous aurez moins de préparation et une simplification lors de la maitrise des parties. Que demandez de plus ?  
 {% endpullquote %}
 
-[^1]: A ce sujet, Le Grümph (l'auteur d'Oltréé!) travaille sur une adaptation cyberpunk nommée [Panopticom](http://www.pandapirate.net/casus/viewtopic.php?f=26&t=22374). 
+[^1]: Innovante, même si la filiation avec le MUSAR issu des [Mille-Marches](http://www.legrog.org/jeux/mille-marches) du même auteur est évidente.
+[^2]: A ce sujet, Le Grümph (l'auteur d'Oltréé!) travaille sur une adaptation cyberpunk nommée [Panopticom](http://www.pandapirate.net/casus/viewtopic.php?f=26&t=22374). 
