@@ -1,0 +1,107 @@
+---
+layout: post
+title: "Fate Core"
+date: 2013-11-29 22:00
+comments: true
+categories: critique fate
+---
+
+Je connais [Fate][] depuis sa deuxième version ([Fate2fe][] pour les intimes) parue en 2003. Et je vais vous parler de sa dernière incarnation, [Fate Core][] qui a été [kickstarté avec succès][ks] par [Evil Hat][] début de cette année.
+
+<!-- more -->
+
+Autant le dire tout de suite, je suis un fan ultra de Fate et de pratiquement toutes ses incarnations, depuis Fate2fe en 2003 jusqu'à Fate Core. J'ai découvert par hasard ce petit jeu amateur et gratuit (plusieurs fois primés) et cela a complètement transformé ma vision du jdr. C'était le premier jeu narrativiste issue de la mouvance "indie" et proche des idées issue de la [Forge][] auquel je fus confronté et j'ai vu une autre façon de faire du jeu de rôle. Plus axée sur les personnages, sur l'histoire et moins sur le bonus au toucher de l'épée magique ou sur combien de point de magie il faut pour lancer tel sort selon les phases de la lune. D'autres avant lui ce sont bien entendu embarquer dans cette voie (Risus, Over the edge, ...) mais de part sa nature plus générique, son coté traditionnel assumé et surtout la superbe mécanique que sont les aspects, celui-ci est resté mon préféré.
+
+Il a eu une vrai influence dans notre petit monde du jeu de rôles qui n'a cessé de grandir et il a été décliné depuis par Evil Hat en plusieurs jeux: [Spirit of the Century][sotc], en cours de traduction chez les [Narrativistes][], [Dresden Files][DF], [Atomic Robo][AR] qui est en cours de tests et maintenant [War of Ashes][WA]. Mais d'autres créateurs s'en sont emparés et nous avons eu droit à [Starblazer Adventures][SA], [Legends of Anglerre][LoA], [Bulldogs!][] et bien d'autres. Il a aussi marqué d'autres auteurs et on sent son influence dans des jeux comme [Chronica Feudalis][CF] et [Icons][]. Et des créateurs français ont été aussi fortement influencés, en particulier pour [Les Milles Marches][MM] et [Bloodlust Métal][BL]. 
+
+[{% img left /images/blog/fateries.jpg "Les jeux motorisés sous Fate ou inspirés par lui" %}](/images/blog/fateries.jpg)
+
+Fate Core est la 4ème incarnation du jeu (Fate2 étant la 2ème et Spirit of the Century et ses dérivés étant la 3ème). Grâce au kickstarter, la gamme s'est enrichie de non seulement Fate Core, mais aussi Fate Accelerated Edition (FAE), du System Toolkit et de deux World Books. Ce billet va parler de Fate Core plus spécifiquement.
+
+[{% img right /images/blog/gamme-fate-core.jpg "La gamme Fate" %}](/images/blog/gamme-fate-core.jpg)
+
+Mais qu'a-t-il dans le ventre ce jeu ? 
+
+Commençons par une rapide présentation. C'est un jeu de rôle générique, particulièrement adapté pour des personnages proactifs, capables et vivants des aventures dramatiques. De part la conception de son système, tout les jeux où le matériel doit être décrit avec précision (type militaire ou hard-science par exemple), où les personnages sont restreints dans leurs capacités et leurs libertés de mouvement (type horreur par exemple) sont moins adaptés. Tous les genres sont possibles bien entendu (med-fan, SF, cyberpunk, historique, policier, etc.), mais malgré tout, les règles assument que les personnages ne subissent pas l'histoire, mais sont au centre de celle-ci et en sont même le moteur principal; qu'ils sont extrêmement capables et ne soient pas des petits acteurs sans envergures; et qu'ils vont vivre des aventures dramatiques et palpitantes et auront à faire des choix difficiles et vivre avec les conséquences qui peuvent en résulter. 
+
+La base du système de jet en lui-même est super simple. Vous prenez la compétence la plus adaptée à l'action, vous lancez quatre [dés Fate][] (un dé Fate[^1] est un d6 qui a comme résultats possibles -1, 0 ou +1, donc le jet va de -4 à +4) et vous additionnez la compétence (généralement entre -1 et +5, mais pouvant aller jusque +8 voir plus) et vous devez battre la difficulté. Les compétences et les difficultés sont notées sur une échelle faite de 11 adjectifs qui vont de -2 Atroce à +8 Fantastique. Voilà, c'est tout. C'est surtout avec l'utilisation des Aspects et des points de Destin que ce système brille.
+
+En effet, le centre du système de Fate, c'est l'histoire. Tout part de l'histoire qui est en train de se jouer autour de la table et tout y revient. Les aspects en sont le moteur. Ils créent des situations (en les invoquant ou via une contrainte), et de nouveaux aspects sont créés en retour (par les conséquences et les avantages créer en jeu). 
+
+Mais c'est quoi un aspect en fin de compte? Et bien c'est un mot, un adjectif, une phrase qui va décrire une facette importante de quelque chose (d'un personnage, d'une situation, d'une campagne, d'un objet, tout ce qu'on veut). Ce peut être par exemple "La Force est avec moi", ou bien "Jamais sans mon chapeau et mon fouet" pour un personnage; "Sol glissant" ou "En feu !" pour une situation; "La Fin est Proche" ou "La Mafia est partout" pour une campagne. Un aspect a deux grandes utilisations: dire ce qui est important en jeu et aider mécaniquement en jeu. En effet, chaque aspect pour être invoqué, contraint ou utilisé pour créer un avantage. Les PJs et le MJ ont tous des points de Destin[^2] à dépenser pour activer un aspect. En l'invoquant lorsque la situation se présente, ils vont au choix soit avoir un bonus de +2 au jet de dés, soit pouvoir tout simplement relancer tous les dés. Lorsqu'on contraint un aspect, on va compliquer la vie d'un personnage (PJ ou PNJ) et lui offrir un choix: soit accepter la complication et il recevra un point de Destin, soit refuser la complication et il devra payer un point de Destin. Une complication c'est une situation où les choix vont être restreint dû à l'aspect, ou bien qui va rendre la vie plus difficile. Ce peut être par exemple recevoir un aspect "Plus de munition" lorsqu'on rate un jet de tir[^3] (réussir au prix fort). Ou bien par exemple devoir foncer sauver son meilleur ami lorsqu'il est en danger parce que "Robin est mon ailier". 
+
+Les aspect sont donc la pierre angulaire du jeu. Ils sont là pour déterminer ce qui est important en jeu et pour donner du poids en terme de mécanique. Grâce à eux,  on sait quel goût aura les aventures de nos personnages. Parce qu'il seront invoqués et contraints, les aspects sont fondamentaux. Quelqu'un avec "J'ai une grande gueule" va forcément se retrouver dans des situations où il va intimider et baratiner tout un chacun. Après tout, c'est en faisant ce genre de chose qu'il pourra l'invoquer et qu'il aura son +2 ou sa relance. Ou qu'il va l'ouvrir au mauvais moment et se faire remarquer ou énerver son interlocuteur, le MJ ayant contraint cet aspect au plus mauvais moment, lorsqu'il doit tenter de convaincre le vizir de leurs bonnes intentions par exemple. 
+
+C'est un outil extrêmement versatile aussi. Dans la plupart des jeux, la santé est géré par des compteurs qui vont bouger jusqu'à atteindre un seuil particulier (le cas typique est les points de vie qui tombent à 0) et les blessures seront très abstraites ou, au contraire, très spécifiques mais au détriment d'une certaine lourdeur dans les règles. Ici, il suffit d'écrire une conséquences (un genre particulier d'aspect de blessure) tel "Jambe cassée", "Poignet foulé" ou "Discrédité face au roi" pour savoir exactement de quoi il retourne. Et comme ce sont des aspects comme les autres, ils peuvent être invoqués et contraints et donc n'ont rien de spécial en regard du système.
+
+Autre point positif de tout ça, vous n'avez pas besoin de retenir vos coups. Vous pouvez y aller à fond. Les conséquences, la réussite avec un coût, la concession en cas de combat, tout ça va faire que les personnages vont en prendre surement plein les dents. Mais en contrepartie, ils recevront pleins de jolis points de Destin. Points qu'ils pourront dépenser plus tard pour foutre une rouste à leurs ennemis. 
+
+Passons au contenu du jeu.
+
+Le livre commence par un premier chapitre qui décrit les concepts principaux du jeu: la fiche de perso (avec les compétences, les aspects, le stress, les conséquences, les prouesses, le rafraichissement), les jets de dés, l'échelle et enfin les points de Destin (*Fate points*) avec l'invocation et la contrainte des aspects.
+
+Vient ensuite un chapitre sur la création de jeu. C'est plutôt une série de conseils que de règles proprement dites sur comment le groupe entier peut définir le cadre de jeu. Fate étant à la base un jeu générique, il faut donc développer le setting dans lequel vous allez jouer. 
+
+Par un dialogue et une série de questions, le MJ et les joueurs vont collaborer pour décrire l'environnent de jeu, les problèmes auxquels seront confrontés les personnages (qui seront décrit sous forme d'aspects), les lieux et les protagonistes principaux. D'habitude, c'est souvent le travail du MJ de décrire le background du jeu, mais Fate prends une optique plus participative ou les joueurs vont pouvoir donner leur avis et leurs idées et donc être plus investis. Mais vous pouvez bien entendu pendre un background existant et l'adapter à Fate.
+
+La création de personnage a ceci de particulier qu'elle nécessite que les personnages soient créés ensemble de façon collaborative. Vous allez devoir attribuer 5 aspects: un concept, un aspect problématique et trois aspects issus de vos propres aventures avant le scénario et des celles que vous avez eu en commun avec deux autres personnages. Vous aurez donc directement des liens avec une majorité d'entre eux. Choisissez vos compétences et donnez-leur un score. Choisissez ou inventez entre 3 et 5 prouesses, déterminez votre rafraichissement et vous êtes prêt à jouer. 
+
+S'en suit un long  chapitre sur les aspects et les points de Destin. Vous aurez non seulement les règles régissant leur utilisations et les différents types (aspects de personnage, de situation, les conséquences, etc.), mais aussi pleins de conseils sur comment bien choisir et utiliser ses aspects. 
+
+Les compétences et les prouesses viennent ensuite. Les compétences sont classiques. Les prouesses sont comme des talents ou des aptitudes particulières propres aux personnages, des petits bonus dans certaines circonstances qui donnent de la couleur au personnages. Ce sont surtout des conseils sur comment les créer plutôt qu'une liste définitive. Néanmoins trois prouesses sont donnés en exemple pour chaque compétences. 
+
+Le chapitre 6 parle du système à proprement parlé. Comment utiliser les compétences, avec les 4 actions possibles (surmonter (*overcome*), créer un avantage, attaquer et défendre) et les 4 résultats possibles (échec avec la possibilité de réussir au prix fort, égalité et réussir avec un prix mineur, succès, succès avec style). Tous peut se réduire à ces quatre actions et ces quatre résultats, ce qui facilitent grandement le travail du MJ.
+
+Après, utilisant cette base, le jeu décrit les challenges, les oppositions et les conflits. Des règles simples donc pour régir les actions plus compliquées, les oppositions entre personnages (qui n'amènent pas de dégâts) et les conflits (physique ou mentaux).
+
+On traite ensuite de la façon de mener une partie, avec entre autre des conseils sur comment créer et jouer l'opposition (les PNJs).
+
+Puis vient un très beau chapitre sur comment écrire des scénarios pour Fate. De par la nature plus personnel d'une aventure type (pour qu'une partie de Fate se passe bien, il faut impliquer les PJs par le biais de leurs aspects), ces conseils sont vraiment utiles et très bien faits. Fate est un de ces jeux qui a apporté son lot d'innovations dans la construction de scénarios. Dans ma série sur les nouvelles approches scénaristiques, je consacrerai un prochain billet sur comment ces techniques et les aspects peuvent être un fabuleux outil facilitant leur conception.
+
+L'expérience (appelée avancement dans Fate) est abordé dans le chapitre 10. Pas de point, mais des _milestones_ qui vont définir quand un personnage pourra augmenter une compétence ou en prendre une nouvelle, quand il pourra avoir une  nouvelle prouesse, où quand ces aspects évolueront. De nouveau, c'est la narration qui va décider quand un personnage va évoluer, pas une série de chiffre sans signification.
+
+Enfin, le chapitre sur les extras abordent les petites règles sur toutes ces choses dont on a besoin pour typer une campagne: objets magiques et particuliers, les pouvoirs, les véhicules, les organisations, etc. Ce chapitre ne fait qu'effleurer la surface, et vous trouverez de plus amples idées dans le Fate System Toolkit. Tous les exemples donnés ne font qu'utiliser les règles vues dans les chapitres précédents ce qui permet de garder la simplicité du système. 
+
+A la fin, différentes fiches dont la celle de personnage clôturent le livre, sans oublié un index fort bien fait.
+
+Le jeu est totalement ouvert, grâce à sa double licence OGL et CC. Et je vous invite d'ailleurs à aller jeter un coup au [SRD][]. Attendez-vous donc à des _hacks_ de toutes sortes. Mais surtout, les PDFs sont en ["pay what you want"][DT], et rien que parce que la politique de Evil Hat est juste parfaite à mes yeux[^4], je vous encourage vivement à lâcher quelques euros. Et si vous vous rendez compte que vous aimez vraiment ce jeu, et bien achetez le livre. Il se présente avec une superbe couverture rigide et mat du plus bel effet, avec un beau papier glacé et pléthore de belles illustrations.
+
+Fate Core, c'est l'incarnation par défaut et ses conseils sont très génériques. Mais pratiquement tous les aspects (sans jeu de mot) du jeu sont modifiables: du nombre de compétences à leur nom, du nombre de cases de stress ou du nombre de prouesses à la création, etc. Ce qui en fait aussi un peu son défaut. De par son côté boîte à outils, tout reste fort générique et va demander quand même un peu de travail pour donner du cachet à votre campagne. Les prouesses, en particulier, sont fort ternes et n'arrivent pas à la cheville de ce qui se fait par exemple dans Spirit of the Century en terme de couleurs pour typer un jeu.
+
+D'ailleurs, FAE n'est en fait qu'un _build_ particulier qui va à l'essentiel pour distiller le système en 48 pages. Et le System Toolkit va vous donner pleins d'idées et de pistes pour modifier les règles de base de Core afin que votre campagne soit la plus chouette possible. On y parle donc des différentes parties du système (aspect, compétences, prouesses, stress, conséquences, ...) mais aussi de magie, de mecha, de kung-fu, de monstres, de combat de masse, etc.
+
+Voilà. J'ai été peut-être un peu long et surtout trop enthousiaste. Mais si, comme moi, l'aventure et les rebondissements sont votre came, essayez au moins une fois Fate, vous risquez de vous amuser.
+
+
+[^1]: Les dés Fate sont en fait des dés [Fudge][] mais vendu par Evil Hat. Fate est en effet né d'un dérivé de Fudge à la base.
+[^2]: En quantité limitée pour les PJs
+[^3]: Vous voyez, même les munitions on s'en cogne. Le système préfère qu'on foute le perso dans la merde au moment le plus dramatiquement judicieux.
+[^4]: Un exemple de [transparence][], entre autre.
+
+*[CC]: Creative Commons
+*[OGL]: Open Gaming Licence
+*[FAE]: Fate Accelerated Edition
+
+[fate]: http://wwww.faterpg.com/
+[fate2fe]: http://faterpg.com/dl/FATE2fe.pdf "Fate2fe en PDF"
+[Fate Core]: http://www.legrog.org/jeux/fate/fate-en
+[ks]: http://www.kickstarter.com/projects/evilhat/fate-core
+[Evil Hat]: http://www.evilhat.com
+[Forge]: http://www.indie-rpgs.com/
+[sotc]: http://www.legrog.org/jeux/spirit-of-the-century/spirit-of-the-century-en
+[narrativistes]: http://narrativiste.eu
+[DF]: http://www.legrog.org/jeux/dresden-files
+[AR]: http://www.evilhat.com/home/atomic-robo/
+[WA]: http://mechanteanemone.wordpress.com/2013/09/25/war-of-ashes-rpg/
+[SA]: http://www.legrog.org/jeux/starblazer-adventures
+[LoA]: http://www.legrog.org/jeux/legends-of-anglerre
+[CF]: http://www.legrog.org/jeux/chronica-feudalis
+[BL]: http://www.legrog.org/jeux/bloodlust/edition-metal/bloodlust-metal-fr
+[MM]: http://www.legrog.org/jeux/mille-marches/mille-marches-fr
+[Icons]: http://www.legrog.org/jeux/icons/icons-fr
+[Bulldogs!]: http://galileogames.com/bulldogs-fate/
+[dés fate]: http://www.evilhat.com/home/fate-dice/
+[fudge]: http://www.fudgerpg.com/
+[SRD]: http://fate-srd.com/
+[DT]: http://rpg.drivethrustuff.com/product/114903/Fate-Core-System?cPath=19296
+[transparence]: http://www.deadlyfredly.com/2013/11/core-ks-breakdown/
