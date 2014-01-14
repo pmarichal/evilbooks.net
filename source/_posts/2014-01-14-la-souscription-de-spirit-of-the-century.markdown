@@ -10,7 +10,7 @@ Ca y est, la souscription pour Spirit of the Century approche à grands pas !
 
 <!-- more -->
 
-[Narrativiste][na] va [démarrer la souscription pour Spirit of the Century][sous] fin du mois. [Spirit of the Century][sotc] (SotC pour les intimes), c'est le jeu pulp années 20 motorisé par [Fate][fate], l'excellent système de chez Evit Hat. C'est du pulp, c'est de l'**A**venture, c'est Indiana Jones/The Rocketeer/La Momie/Sky Captain and the World of Tomorrow. C'est mon système de jeu préféré. 
+[Narrativiste][na] va [démarrer la souscription pour Spirit of the Century][sous] fin du mois. [Spirit of the Century][sotc] (SotC pour les intimes), c'est le jeu pulp années 20 motorisé par [Fate][fate], l'excellent système de chez Evil Hat. C'est du pulp, c'est de l'**A**venture, c'est Indiana Jones / The Rocketeer / La Momie / Sky Captain and the World of Tomorrow. C'est mon système de jeu préféré. 
 
 On dit même que certain font jouer [Les Masques de Nyarlathotep avec SotC][masque] (attention, possible spoiler plus loin dans le thread).
 
