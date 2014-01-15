@@ -16,9 +16,11 @@ On dit même que certain font jouer [Les Masques de Nyarlathotep avec SotC][masq
 
 Je vous invite à aller jeter un coup d'oeil dès que les règles VF seront dispos en ligne (je vous tiendrais au courant).
 
+UPDATE: Voilà, [les règles en français sont dispos][vf] (mais brut de décoffrage) ainsi qu'un extrait montrant la maquette (assez jolie au demeurant)
 
 [na]: http://www.narrativiste.eu
 [sous]: http://www.narrativiste.eu/2014/premier-jeu-fate/
 [fate]: /blog/2013/11/fate-core/
 [masque]: http://www.pandapirate.net/casus/viewtopic.php?p=1017842#p1017842
 [sotc]: http://www.legrog.org/jeux/spirit-of-the-century
+[vf]: http://www.narrativiste.eu/2014/spirit-of-the-century/
