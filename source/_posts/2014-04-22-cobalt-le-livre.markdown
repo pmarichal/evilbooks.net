@@ -12,9 +12,11 @@ Le livre Cthulhu Cobalt est maintenant disponible, via Lulu.
 
 [Cthulhu Cobalt][CC] est donc maintenant disponible à l'impression à la demande, via Lulu à prix coutant. C'est un joli petit livre de 74 pages, format roman (6"x9" américain), et avec un papier crème qui donne une petite touche pulp. C'est [ici que cela se passe][lulu].
 
+Et merci à Lorenzo Bovo pour l'illustration de couv' qui déchire.
+
 {% img /images/blog/CC.jpg %}
 
 Bon jeu !
 
 [CC]: /blog/2014/02/cthulhu-cobalt/
-[lulu]: http://www.lulu.com/shop/philippe-marichal/cthulhu-cobalt/paperback/product-21472290.html  
+[lulu]: http://www.lulu.com/shop/philippe-marichal-and-lorenzo-bovo/cthulhu-cobalt/paperback/product-21647205.html
